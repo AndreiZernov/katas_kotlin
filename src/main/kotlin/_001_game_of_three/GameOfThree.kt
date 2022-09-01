@@ -1,7 +1,7 @@
 package _001_game_of_three
 
 class GameOfThree {
-    fun gameOfThree(number: Int): List<Int> {
+    fun play(number: Int): List<Int> {
         val result = mutableListOf<Int>()
         var current = number
         while (current != 1) {

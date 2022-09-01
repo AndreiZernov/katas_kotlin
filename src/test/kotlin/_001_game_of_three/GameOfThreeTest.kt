@@ -13,6 +13,6 @@ internal class GameOfThreeTest {
 
 internal fun testWrapper(number: Int, expected: List<Number>) {
     val gameOfThree = GameOfThree()
-    val actual = gameOfThree.gameOfThree(number)
+    val actual = gameOfThree.play(number)
     assertEquals(expected, actual)
 }
