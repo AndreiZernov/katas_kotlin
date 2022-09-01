@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="_001_game_of_three.GameOfThreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-01T21:23:29" hostname="C02FP3PZMD6M" time="0.028">
-  <properties/>
-  <testcase name="test100()" classname="_001_game_of_three.GameOfThreeTest" time="0.026"/>
-  <testcase name="test3()" classname="_001_game_of_three.GameOfThreeTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
